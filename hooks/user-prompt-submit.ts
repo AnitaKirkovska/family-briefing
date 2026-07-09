@@ -31,8 +31,8 @@ const onUserPromptSubmit: PluginHookFn = async (ctx) => {
   if (!needsOnboarding) return;
 
   ctx.latestMessages.unshift({
-    role: "system",
-    content: ONBOARDING_INSTRUCTION,
+    role: "user",
+    content: [{ type: "text", text: ONBOARDING_INSTRUCTION }],
   });
 };
 
