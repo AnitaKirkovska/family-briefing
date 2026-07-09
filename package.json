@@ -1,0 +1,10 @@
+{
+  "name": "@anitakirkovska/family-briefing",
+  "version": "0.1.0",
+  "description": "Daily morning briefing for parents: merges calendars, triages school emails, and detects scheduling conflicts.",
+  "license": "MIT",
+  "peerDependencies": {
+    "@vellumai/plugin-api": "^0.8.0"
+  },
+  "vellum": {}
+}

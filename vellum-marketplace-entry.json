@@ -1,0 +1,12 @@
+{
+  "name": "family-briefing",
+  "source": {
+    "source": "github",
+    "repo": "AnitaKirkovska/family-briefing",
+    "ref": "PLACEHOLDER_COMMIT"
+  },
+  "description": "Daily morning briefing for parents: merges family calendars, triages school emails, and detects scheduling conflicts.",
+  "category": "productivity",
+  "homepage": "https://github.com/AnitaKirkovska/family-briefing",
+  "license": "MIT"
+}
