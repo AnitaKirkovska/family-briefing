@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/icon.png" width="150" alt="family-briefing">
+
 # family-briefing
 
 **Your morning briefing for family logistics: calendars, school emails, and scheduling conflicts in one message.**
